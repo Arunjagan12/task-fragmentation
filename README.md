@@ -24,12 +24,12 @@ Fragmentation facilitates collaboration among team members. Clear and isolated c
 
 Each component was chosen based on its standalone functionality and reusability:
 
-- `AppToast`: Handles application-wide toast notifications.
-- `BurnButtonBar`: Manages UI functionality for burning app tokens.
-- `BurnStatsContainer`: Displays statistical data related to app supplies.
-- `BurnTxTable`: Handles and displays burn transaction data.
-- `ChainSelector`: Facilitates chain selection for tokens.
-- `TransactionTableStyled`: Styles and presents transaction-related data within the app.
+- `AppToast`
+- `BurnButtonBar`
+- `BurnStatsContainer`
+- `BurnTxTable`
+- `ChainSelector`
+- `TransactionTableStyled`
 
 ## Implementation
 

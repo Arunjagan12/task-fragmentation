@@ -8,7 +8,7 @@ import AppToast from './components/AppToast';
 const BurnPage = () => {
   return (
     <div>
-      {/* Use the imported components here */}
+  
       <BurnButtonBar />
       <BurnStatsContainer />
       <TransactionTableStyled />
